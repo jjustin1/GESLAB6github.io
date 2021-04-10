@@ -1,5 +1,4 @@
-# GESLAB6.github.io
-GES LAB 6 Assingment 
+# *GES LAB 6 Assingment*
 
 ## Purpose of Project 
 The purpose of this project was to create a chloropleth map measuring the increase in both the Black Population and the population with an advanced degree in Howard County from the years 2012-2019 
