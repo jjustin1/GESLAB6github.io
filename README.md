@@ -12,6 +12,9 @@ variables indicating the percentage of the population that was Black or highly e
 The outputs for this data consisted of taking the differences between percentage of the population that is black and the percentage of the population that
 is highly educated. 
 
+## How Was Data created? 
+Data for the chloropleth maps were ceated in 3 steps. The first step involved obtaining the raw demographic data on race and education from the ACS survey. Once this was done, a full table join was used in R to combine both maps (2012 map and 2019 map) into 1 table, where the differences in the Black population and educated population were calculated from the specified years. Once these differences were obtained, the tables were transformed into shapefiles that could be uploaded to QGIS in order to be turned into chloropleth maps. 
+
 ## R Code 
 To view my R Code, click the link below 
 <a href="https://github.com/jjustin1/GESLAB6.github.io/blob/main/RNotebook/GES%20LAB%206%20R%20notebook%20PDF.pdf" target="_blank">GES Lab 6 R Notebook.</a>
