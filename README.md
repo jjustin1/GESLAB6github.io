@@ -17,7 +17,7 @@ Data for the chloropleth maps were ceated in 3 steps. The first step involved ob
 
 ## R Code 
 To view my R Code, click this link: 
-<a href="https://github.com/jjustin1/GESLAB6.github.io/blob/main/RNotebook/GES%20LAB%206%20R%20notebook%20PDF.pdf" target="_blank">GES Lab 6 R Notebook.</a>
+<a href="https://github.com/jjustin1/GESLAB6github.io/blob/main/R%20Notebook/GES%20LAB%206%20R%20notebook%20PDF.pdf" target="_blank">GES Lab 6 R Notebook.</a>
 
 
 ## Final Output 
