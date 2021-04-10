@@ -13,7 +13,7 @@ The outputs for this data consisted of taking the differences between percentage
 is highly educated. 
 
 ## How Was Data created? 
-Data for the chloropleth maps were ceated in 3 steps. The first step involved obtaining the raw demographic data on race and education from the ACS survey. Once this was done, a full table join was used in R to combine both maps (2012 map and 2019 map) into 1 table, where the differences in the Black population and educated population were calculated from the specified years. Once these differences were obtained, the tables were transformed into shapefiles that could be uploaded to QGIS in order to be turned into chloropleth maps. 
+Data for the chloropleth maps were ceated in 3 steps. The first step involved obtaining the raw demographic data on race and education from the ACS survey. Once this was done, a full table join was used in R to combine both maps (2012 map and 2019 map) into 1 table, where the differences in the Black population and educated population were calculated from the specified years (ex. Blackpop 2019 - Blackpop2012). Once these differences were obtained, the tables were transformed into shapefiles that could be uploaded to QGIS in order to be turned into chloropleth maps. 
 
 ## R Code 
 To view my R Code, click this link: 
